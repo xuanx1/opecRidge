@@ -1,3 +1,3 @@
 # Preview
 
-![Screenshot 2025-08-23 233139](https://github.com/user-attachments/assets/c388022e-6d16-4e4f-a70b-064cbf84160e)
+![Screenshot 2025-08-23 233139](https://github.com/user-attachments/assets/4cc318b6-407e-4eee-bc26-dc0ce4d7d869)
