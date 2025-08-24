@@ -2,7 +2,7 @@
 
 A data visualization project that analyzes and visualizes OPEC (Organization of the Petroleum Exporting Countries) petroleum production data from 2014 to 2024 using interactive ridgeline plots.
 
-## Preview
+## [Preview](https://xuanx1.github.io/opecRidge/opec_ridgeline_plot.html)
 ![Screenshot 2025-08-23 233139](https://github.com/user-attachments/assets/4cc318b6-407e-4eee-bc26-dc0ce4d7d869)
 
 ## Project Overview
